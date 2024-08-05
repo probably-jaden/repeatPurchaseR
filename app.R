@@ -15,8 +15,8 @@ library(tidyr)
 library(tidyverse)
 
 
-testDF <- read_csv("~/Documents/repeatPurchase Willas Kitchen/WillasKitchenRPR_18Months.csv")
-month_data <- month_group(clean_data(testDF), N = 1)
+#testDF <- read_csv("~/Documents/repeatPurchase Willas Kitchen/WillasKitchenRPR_18Months.csv")
+#month_data <- month_group(clean_data(testDF), N = 1)
 
 
 #val_allPurchases_perCustomer <- read_csv("~/Documents/repeatPurchaseTesting/val_allPurchases_perCustomer.csv")
